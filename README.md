@@ -89,6 +89,17 @@ This image presents an <b>air quality analysis in India from 2018 to 2022</b>, h
 
 These visualizations help identify critical patterns in air quality and pollutant behavior.
 
+![Image](https://github.com/user-attachments/assets/8c1b1a14-aa22-43c4-af0c-03d2966aab88)
+
+This image features <b>a Ribbon chart</b> displaying the <b>annual average concentrations of NO₂, PM10, PM2.5, and SO₂ </b>in India from <b>2018 to 2022</b>. Key insights include:
+
+- <b>A significant rise in PM10 and PM2.5 </b>levels starting from <b>2021</b>, indicating a <b>worsening air quality </b>trend.
+
+- The chart effectively visualizes the increasing concentration of particulate matter and other pollutants over the years.
+
+This visual helps highlight the growing concern over air pollution in recent years.
+
+
 
 
 
