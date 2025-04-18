@@ -59,8 +59,9 @@ The visual helps identify regional pollution hotspots and supports targeted envi
 
 This image presents <b>a spatial distribution map of India's air quality from 2018 to 2022</b>, with regions color-coded according to their <b>AQI categories</b>, ranging from <b>hazardous to moderate</b>. Key highlights include:
 
-Widespread areas classified as <b>"Very Unhealthy" and "Unhealthy"</b>, particularly in <b>central and northern India.
+Widespread areas classified as <b>"Very Unhealthy" and "Unhealthy"</b>, particularly in <b>central and northern India.</b>
 
 The map provides clear insights into the regions most affected by severe air pollution, aiding in focused environmental action.
+
 
 
