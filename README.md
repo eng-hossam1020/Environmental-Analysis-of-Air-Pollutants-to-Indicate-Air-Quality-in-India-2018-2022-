@@ -30,6 +30,17 @@ This image provides a high-level summary of air quality in India from 2018 to 20
 - Their associated health impacts.
 
 - Common sources such as industrial emissions and fossil fuel combustion.
+- The visual serves as a contextual foundation for the in-depth analysis presented in the Power BI dashboard.
+
+![Image](https://github.com/user-attachments/assets/afd84ff4-6fb5-4196-9c70-0290f28ec36f)
+
+This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b> and <b>PM10</b> in India from <b>2018 to 2022</b>. Key highlights include:
+
+- <b>PM10</b> and<b> PM2.5 </b>levels <b>significantly exceed WHO guidelines</b>, raising major environmental and health concerns.
+
+- <b>A pie chart</b> and <b>trend graph</b> illustrate that <b>PM10 is the dominant pollutant</b>, accounting for <b>56.46% of the total excess pollution</b> beyond safe limits.
+
+- This image effectively supports the analytical findings and emphasizes the urgency of addressing particulate matter pollution.
 
 
 
