@@ -42,6 +42,18 @@ This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b>
 
 - This image effectively supports the analytical findings and emphasizes the urgency of addressing particulate matter pollution.
 
+- ![Image](https://github.com/user-attachments/assets/c46291cd-f581-463a-a2b5-1d900af51442)
+
+- This image visualizes <b>air quality data across 128 Indian cities</b> from <b> 2018 to 2022</b>, categorizing them by <b>pollution severity levels</b>. Based on average <b>AQI scores, the top three most polluted cities </b>are:
+
+- Ghaziabad
+
+- Noida
+
+- Ahmedabad
+
+The visual helps identify regional pollution hotspots and supports targeted environmental policy decisions.
+
 - 
 
 
