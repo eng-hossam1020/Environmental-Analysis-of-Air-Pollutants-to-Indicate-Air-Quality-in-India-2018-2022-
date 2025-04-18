@@ -21,5 +21,15 @@ The dashboard offers visual insights to support data-driven decisions on environ
 
 ## 🖼️ Visual Summary
 
+![Image](https://github.com/user-attachments/assets/254512c8-91d0-4357-a16e-e166be466c79)
+
+This image provides a high-level summary of air quality in India from 2018 to 2022. It highlights key pollutants — <b>SO₂, NO₂, PM2.5,</b> and <b>PM10</b> and includes:
+
+- An overview of pollutant types.
+
+- Their associated health impacts.
+
+- Common sources such as industrial emissions and fossil fuel combustion.
+
 
 
