@@ -83,7 +83,9 @@ This image presents an <b>air quality analysis in India from 2018 to 2022</b>, h
 
 - <b>Scatter plots</b> illustrating pollutant trends over time
 
-- <b>A line graph</b> showing AQI changes year-over-year
+- <b>A line graph</b> showing <b>AQI changes</b> year-over-year
+
+- 
 
 These visualizations help identify critical patterns in air quality and pollutant behavior.
 
