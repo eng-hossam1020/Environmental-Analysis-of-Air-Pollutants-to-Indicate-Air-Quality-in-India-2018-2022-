@@ -73,5 +73,20 @@ This image presents an <b>analysis of major air pollutants (PM10, PM2.5, NO₂, 
 
 This analysis provides a deeper understanding of pollutant behavior and their interdependencies.
 
+![Image](https://github.com/user-attachments/assets/3d9dfcc7-6be5-4153-9454-3db3b73d4c31)
+
+This image presents an <b>air quality analysis in India from 2018 to 2022</b>, highlighting the following key insights:
+
+- An average <b>AQI of 180.04, indicating unhealthy</b> air quality
+
+- Strong correlations between <b>AQI and PM10 (0.93), and AQI and PM2.5 (0.72)</b>
+
+- <b>Scatter plots</b> illustrating pollutant trends over time
+
+- <b>A line graph</b> showing AQI changes year-over-year
+
+These visualizations help identify critical patterns in air quality and pollutant behavior.
+
+
 
 
