@@ -42,5 +42,7 @@ This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b>
 
 - This image effectively supports the analytical findings and emphasizes the urgency of addressing particulate matter pollution.
 
+- 
+
 
 
