@@ -67,8 +67,9 @@ Widespread areas classified as <b>"Very Unhealthy" and "Unhealthy"</b>, particul
 
 The map provides clear insights into the regions most affected by severe air pollution, aiding in focused environmental action.
 
-![Image](https://github.com/user-attachments/assets/ae3c92d8-dbf4-44e6-8fac-9bf27aad4067)
+![Image](https://github.com/user-attachments/assets/2bd15a7d-677f-4904-beef-3869e41c16aa)
 
+#### 5. Pollutants Trends & Corelation
 This image presents an <b>analysis of major air pollutants (PM10, PM2.5, NO₂, SO₂),</b> in India from 2018 to 2022, focusing on correlations and annual trends. It includes:
 
 - <b>Scatter plots</b> illustrating the relationships between different pollutants
