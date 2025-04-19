@@ -98,8 +98,10 @@ These visualizations help identify critical patterns in air quality and pollutan
 
 ![Image](https://github.com/user-attachments/assets/44abdf3d-0bcf-4e82-9bd1-c098dcc2fc28)
 
+![Image](https://github.com/user-attachments/assets/e7e747bb-b569-47f2-a989-47525e7b944d)
+
 #### 7. Summary
-## Key Insights from the Data Analysis:
+#### Key Insights from the Data Analysis:
 #### 1.	Widespread Unhealthy Air Quality
 The data reveals that "Unhealthy" is the dominant air quality classification across the analyzed locations. This means that air pollution levels pose health risks not only to sensitive groups but to the general population as well. This underscores an urgent need for relevant authorities to implement effective air pollution control policies to safeguard public health.
 #### 2.	Noticeable Deterioration in Air Quality (2020–2022)
