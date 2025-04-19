@@ -58,8 +58,9 @@ This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b>
 The visual helps identify regional pollution hotspots and supports targeted environmental policy decisions.
 
 
-![Image](https://github.com/user-attachments/assets/184d6482-04a9-4f93-b064-ca5b5565b1f1)
+![Image](https://github.com/user-attachments/assets/4c567a98-f0fa-4396-989c-4cffae9b0a2e)
 
+#### 4. Spatial Distribution
 This image presents <b>a spatial distribution map of India's air quality from 2018 to 2022</b>, with regions color-coded according to their <b>AQI categories</b>, ranging from <b>hazardous to moderate</b>. Key highlights include:
 
 Widespread areas classified as <b>"Very Unhealthy" and "Unhealthy"</b>, particularly in <b>central and northern India.</b>
