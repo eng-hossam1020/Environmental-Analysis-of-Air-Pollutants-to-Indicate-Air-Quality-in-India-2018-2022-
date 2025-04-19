@@ -97,13 +97,15 @@ These visualizations help identify critical patterns in air quality and pollutan
 ![Image](https://github.com/user-attachments/assets/44abdf3d-0bcf-4e82-9bd1-c098dcc2fc28)
 
 #### 7. Summary
-This image features <b>a Ribbon chart</b> displaying the <b>annual average concentrations of NO₂, PM10, PM2.5, and SO₂ </b>in India from <b>2018 to 2022</b>. Key insights include:
+## Key Insights from the Data Analysis:
+#### 1.	Widespread Unhealthy Air Quality
+The data reveals that "Unhealthy" is the dominant air quality classification across the analyzed locations. This means that air pollution levels pose health risks not only to sensitive groups but to the general population as well. This underscores an urgent need for relevant authorities to implement effective air pollution control policies to safeguard public health.
+#### 2.	Noticeable Deterioration in Air Quality (2020–2022)
+A significant decline in air quality was observed between 2020 and 2022, primarily driven by a sharp increase in fine particulate matter (PM10 and PM2.5). These pollutants are particularly hazardous as they penetrate deep into the respiratory system, leading to chronic health issues. This highlights the importance of reassessing the primary sources of these pollutants and taking necessary measures to mitigate their impact.
+#### 3.	High-Risk Cities Identified
+The data highlights a list of high-risk cities that have consistently exhibited dangerous pollution levels over the past five years. These areas require immediate intervention. The Reported Page offers insights into key contributing factors in these cities—information that can support policymakers in developing targeted, data-driven strategies to improve overall air quality.
 
-- <b>A significant rise in PM10 and PM2.5 </b>levels starting from <b>2021</b>, indicating a <b>worsening air quality </b>trend.
 
-- The chart effectively visualizes the increasing concentration of particulate matter and other pollutants over the years.
-
-This visual helps highlight the growing concern over air pollution in recent years.
 
 ## Data Processing and Calculations
 <b>This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:</b>
