@@ -122,7 +122,9 @@ The relationships between different data tables are established to create a comp
 ![Image](https://github.com/user-attachments/assets/2b0d045d-37f6-4b77-9742-16d3bd7f60bf)
 
 These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights and performance metrics into Environmental-Analysis-of-Air-Pollutants.
+
 This data model integrates multiple yearly datasets (2018–2022) capturing city-level air quality information, all of which are related through a common key: <b>City/Town/Village</b>. The structure indicates a star <b>schema style</b>, where each yearly data table connects to a central, consolidated <b>Air Pollutants</b> fact table that stores pollutant values along with their respective <b>year</b> and <b>location</b>.
+
 #### Additional supporting tables include:
 •	<b>Calendar table</b>, linked via the Date field, which facilitates time-based analysis and filtering.
 •	<b>No. cities</b>, used to track the count or metadata about cities monitored each year.
