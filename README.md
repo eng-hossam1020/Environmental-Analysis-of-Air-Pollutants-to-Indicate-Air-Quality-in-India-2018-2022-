@@ -127,7 +127,9 @@ This data model integrates multiple yearly datasets (2018–2022) capturing city
 
 #### Additional supporting tables include:
 •	<b>Calendar table</b>, linked via the Date field, which facilitates time-based analysis and filtering.
+
 •	<b>No. cities</b>, used to track the count or metadata about cities monitored each year.
+
 •	<b>Air pollutants slicer</b> is a </b>helper table</b> created specifically for slicers to enable <b>more flexible user-driven filtering</b> without interfering with primary relationships.
 
 
