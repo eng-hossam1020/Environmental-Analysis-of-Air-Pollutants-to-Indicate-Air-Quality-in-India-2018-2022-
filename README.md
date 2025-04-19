@@ -105,6 +105,25 @@ This image features <b>a Ribbon chart</b> displaying the <b>annual average conce
 
 This visual helps highlight the growing concern over air pollution in recent years.
 
+## Data Processing and Calculations
+<b>This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:</b>
+
+#### Power Query 
+Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
+
+#### DAX (Data Analysis Expressions)
+DAX is utilized for creating custom calculations and measures within the dashboard. It allows for advanced data modeling and enables the creation of dynamic calculations that respond to user interactions and filter selections.
+
+#### Data Modeling
+The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
+
+![Image](https://github.com/user-attachments/assets/ccb5385b-d8a4-4bc5-be2d-56da4e002e07)
+
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into App behavior analysis and performance metrics.
+
+
+
+
 
 
 
