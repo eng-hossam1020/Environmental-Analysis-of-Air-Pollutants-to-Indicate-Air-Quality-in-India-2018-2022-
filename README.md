@@ -117,7 +117,7 @@ DAX is utilized for creating custom calculations and measures within the dashboa
 #### Data Modeling
 The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
 
-![Image](https://github.com/user-attachments/assets/ccb5385b-d8a4-4bc5-be2d-56da4e002e07)
+![Image](https://github.com/user-attachments/assets/2b0d045d-37f6-4b77-9742-16d3bd7f60bf)
 
 These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into App behavior analysis and performance metrics.
 
