@@ -35,7 +35,7 @@ This image provides a high-level summary of air quality in India from 2018 to 20
 
 ![Image](https://github.com/user-attachments/assets/d463a999-7d85-4ddf-ba87-bb77c3a085f4)
 
-#### 2.Pollutant Annual Average
+#### 2. Pollutant Annual Average
 This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b> and <b>PM10</b> in India from <b>2018 to 2022</b>. Key highlights include:
 
 - <b>PM10</b> and<b> PM2.5 </b>levels <b>significantly exceed WHO guidelines</b>, raising major environmental and health concerns.
@@ -44,8 +44,9 @@ This visual presents the average pollution levels of <b>SO₂, NO₂, PM2.5,</b>
 
 - This image effectively supports the analytical findings and emphasizes the urgency of addressing particulate matter pollution.
 
-- ![Image](https://github.com/user-attachments/assets/c46291cd-f581-463a-a2b5-1d900af51442)
+![Image](https://github.com/user-attachments/assets/5e5ad193-aa9e-4c0f-b03e-4882479bc48c)
 
+#### 3. City-Wise Air Quality
 - This image visualizes <b>air quality data across 128 Indian cities</b> from <b> 2018 to 2022</b>, categorizing them by <b>pollution severity levels</b>. Based on average <b>AQI scores, the top three most polluted cities </b>are:
 
 - Ghaziabad
