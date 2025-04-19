@@ -119,7 +119,7 @@ The relationships between different data tables are established to create a comp
 
 ![Image](https://github.com/user-attachments/assets/2b0d045d-37f6-4b77-9742-16d3bd7f60bf)
 
-These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into App behavior analysis and performance metrics.
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights and performance metrics into Environmental-Analysis-of-Air-Pollutants.
 
 
 
